@@ -6,3 +6,4 @@
 [![Github Actions Status](https://github.com/Gamilkar/python-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/Gamilkar/python-project-lvl1/actions)
 
 https://asciinema.org/a/tTTqWrRu9t4zKZDodSWtzQmf2
+https://asciinema.org/a/LqffPh75L1czba3E6yvuLknlk
