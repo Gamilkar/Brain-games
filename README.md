@@ -5,10 +5,12 @@
 
 [![Github Actions Status](https://github.com/Gamilkar/python-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/Gamilkar/python-project-lvl1/actions)
 
-https://asciinema.org/a/tTTqWrRu9t4zKZDodSWtzQmf2
+[brain-even](https://asciinema.org/a/tTTqWrRu9t4zKZDodSWtzQmf2)
 
-https://asciinema.org/a/LqffPh75L1czba3E6yvuLknlk
+[brain-calc](https://asciinema.org/a/LqffPh75L1czba3E6yvuLknlk)
 
-https://asciinema.org/a/mtJsX1sK15qzVIUMHpgvQ4grY
+[brain-gcd](https://asciinema.org/a/mtJsX1sK15qzVIUMHpgvQ4grY)
 
-https://asciinema.org/a/6kqNUr6UIs0CAdRDq1C4M7S6y
+[brain-progression](https://asciinema.org/a/6kqNUr6UIs0CAdRDq1C4M7S6y)
+
+[brain-prime](https://asciinema.org/a/Mh68aTG6dJsTwevQk4FI0mctV)

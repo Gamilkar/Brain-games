@@ -4,7 +4,7 @@ from brain_games.gameplay import gameplay
 
 
 def main():
-    information = ('Answer "yes" if given number is prime.'
+    information = ('Answer "yes" if given number is prime. '
                    'Otherwise answer "no".')
     game_data = {}
     for step in range(3):
