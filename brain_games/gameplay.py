@@ -1,14 +1,14 @@
 import prompt
 
 
-def gameplay(game_data, information):
+def gameplay(function, information):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
     print(information)
-    for level, question in enumerate(game_data):
+    for level in range(3):
+        (question, correct) = function()
         print(question)
-        correct = game_data[question]
         answer = input('Your answer: ')
         if answer != correct:
             print((f"'{answer}' is wrong answer ;(. Correct answer "
